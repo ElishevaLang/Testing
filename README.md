@@ -1,6 +1,7 @@
 # Testing- WebAPI
 Thanks for looking into my project. This project was designed to demonstrate software development practices and built using Asp.Net Core 6 with Web API, Rest API, as a Monolite.
-It includes a comprehensive suite of tests, encompassing unit tests with mocking for isolated component validation and integration tests to ensure seamless end-to-end functionality, implementing (TDD) approach,following the red-green-refactor cycle for clean and efficient development.
+It includes a comprehensive suite of tests, encompassing unit tests with mocking for isolated component validation and integration tests to ensure seamless end-to-end functionality, implementing (TDD) 
+approach, following the red-green-refactor cycle for clean and efficient development.
 Including leveraging tools like MSTest, Moq, and an in-memory database, the testing setup ensures reliability and flexibility while avoiding dependencies on external systems. 
 With detailed examples and a modular structure, this repository serves as a practical guide for creating scalable and maintainable WebAPIs backed by rigorous testing.
 I divided my project into different layers that communicate via DI in order to gain encapsulation and flexibility
